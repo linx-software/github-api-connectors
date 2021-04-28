@@ -1,4 +1,4 @@
-# GitHub integeration
+# GitHub integration
 
 ## Overview
 
