@@ -22,7 +22,7 @@ The provided sample includes:
 ### Pre-requisites
 
 - Linx Designer
-- Salesforce account
+- Github account
 
 ### Linx Designer
 
