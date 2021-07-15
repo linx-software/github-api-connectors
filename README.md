@@ -6,7 +6,7 @@ Managing the different aspects of your GitHub instance can become a overwhelming
 
 Using [Linx](https://linx.software) and the [GitHub REST API](https://docs.github.com/en/rest), you're able to automate many of your existing tasks and devops on GitHub such as retrieving commit history, updating resources or triggering other external tasks and events based on GitHub activity.
 
-This sample contains multiple functions which allow you to connect and make HTTP requests to the different resources on the GitHub API. These 'connector' functions have been built and tested to handle to the specifics of interacting with the varrious GitHub API methods and objects. 
+This sample contains multiple functions which allow you to connect and make HTTP requests to the different resources on the GitHub API. These 'connector' functions have been built and tested to handle to the specifics of interacting with the various GitHub API methods and objects. 
 
 The goal of this Linx Solution is to ultimately include custom built connector functions for all the methods of the GitHub API specified [here](https://docs.github.com/en/rest/reference). For a full list of the current connector functions contained in the sample, take a look at the [wiki](https://github.com/linx-software/github-api-connectors/wiki).
 
@@ -24,29 +24,29 @@ The goal of this Linx Solution is to ultimately include custom built connector f
    - Value: `https://api.github.com`  
 1. **Save** your Solution.
 
-You can now drag the required connector functions into your own custm functions.
+You can now drag the required connector functions into your own custom functions.
 
 ---
 
 ## Using the connector functions
 
 This sample contains generic "connector" functions which can be imported and used in your own Linx Solution.
-
+ 
 Each connector function in the Solution follows the below structure:
 - Takes in an `access token` as an input parameter.
 - Takes in any data used for the request parameters such as query, path or requestBody values.
 - Makes a HTTP request to the API and returns a string response.
-- The response string is then deserialized into the function result object type.
+- The response string is then de-serialized into the function result object type.
 
 For more technical details on the specific functions and Solution architecture take a look at the [wiki](https://github.com/linx-software/github-api-connectors/wiki).
 
-These functions do not persist any data and only return or send data that is recieved at runtime, therefore you must add your own data persistance layer if required.
+These functions do not persist any data and only return or send data that is received at runtime, therefore you must add your own data persistence layer if required.
 
 Authentication of requests is achieved via access tokens, the functions take in the `access_token` used in the request as an input parameter which is then added to the header of the request. This 'access token' needs to be passed in to each function by you, this could be retrieved from a database, file or external service. 
 
 You're able to generate and retrieve your token from an external authentication service or, alternatively, you're able to host your own Linx authentication service which generates the access tokens and stores them locally on your environment for later retrieval.
 
-A common issue that you may run into when working with the GitHub API is that you recieve the below response:
+A common issue that you may run into when working with the GitHub API is that you receive the below response:
 ```http
 Response code: 403 (Forbidden)
 Response Body:
