@@ -1,77 +1,68 @@
-# GitHub API integration template
+# github-api-connectors
 
 ## Description
-Integration template connecting Linx to the GitHub API.
 
+Managing the different aspects of your GitHub instance can become a overwhelming task with the various flows and procedures that typically happen when working in teams on multiple development projects. 
 
+Using [Linx](https://linx.software) and the [GitHub REST API](https://docs.github.com/en/rest), you're able to automate many of your existing tasks and devops on GitHub such as retrieving commit history, updating resources or triggering other external tasks and events based on GitHub activity.
+
+This sample contains multiple functions which allow you to connect and make HTTP requests to the different resources on the GitHub API. These 'connector' functions have been built and tested to handle to the specifics of interacting with the varrious GitHub API methods and objects. 
+
+The goal of this Linx Solution is to ultimately include custom built connector functions for all the methods of the GitHub API specified [here](https://docs.github.com/en/rest/reference). For a full list of the current connector functions contained in the sample, take a look at the [wiki](https://github.com/linx-software/github-api-connectors/wiki).
+
+---
 ## Installation
-### Pre-requisites
 
-- Linx Designer
-- GitHub OAuth 2.0 access token
-
-
-
-### Configure your Solution
-
-1. Open the your Solution in your Linx Designer.
-1. Add the below *$.Settings* value:
-
-   | Name | Type | Value  
-   | --- | --- | --- 
-   | `GitHubApiBaseUri` |  string | `https://api.github.com` | 
-
-
-1. **Save** the Solution.
-
-
-### Import the sample functions into your Solution 
-
-1. Open the sample Solution in your Linx Designer.
-2. Right-click on the 'GitHub' folder in the Solution Explorer.
+1. Install the Linx Designer. Download it [here.](https://linx.software)
+2. Open the sample Solution 'GitHubConnectors.lsoz' in your Linx Designer.
+2. Right-click on the **GitHub** folder in the Solution Explorer.
 3. Select **Copy**.
 4. Open your own Solution.
 5. Right-click on your Solution Explorer and click **Paste**.
+4. A validation error will occur referencing a missing setting value, to resolve this error, add the below as $.Setting to your Solution:
+   - Name: `GitHubApiBaseUri`
+   - Value: `https://api.github.com`  
+1. **Save** your Solution.
 
+You can now drag the required connector functions into your own custm functions.
 
-## Usage
+---
 
-### Get the details of authenticated user
+## Using the connector functions
 
-Retrieve the details of the user associated with the access token.
+This sample contains generic "connector" functions which can be imported and used in your own Linx Solution.
 
-1. Debug or drag the *GetAuthenticatedUser* function in your own function.
-1. Add your GitHub `access_token` as the input parameter.
-2. Run the function.
-3. View the details of the authenticated user as the result of the function.
+Each connector function in the Solution follows the below structure:
+- Takes in an `access token` as an input parameter.
+- Takes in any data used for the request parameters such as query, path or requestBody values.
+- Makes a HTTP request to the API and returns a string response.
+- The response string is then deserialized into the function result object type.
 
-### Get a list of repositories
+For more technical details on the specific functions and Solution architecture take a look at the [wiki](https://github.com/linx-software/github-api-connectors/wiki).
 
-Retrieve a list of repositories for the authroized user.
-1. Debug or drag the *GetRepos* function in your own function.
-1. Add your GitHub `access_token` as the input parameter.
-2. Add your repository owner name in the input parameter.
-3. Run the function.
-3. View the list of repository details as the result of the function.
+These functions do not persist any data and only return or send data that is recieved at runtime, therefore you must add your own data persistance layer if required.
 
+Authentication of requests is achieved via access tokens, the functions take in the `access_token` used in the request as an input parameter which is then added to the header of the request. This 'access token' needs to be passed in to each function by you, this could be retrieved from a database, file or external service. 
 
-### Get a list of commits for a repo
+You're able to generate and retrieve your token from an external authentication service or, alternatively, you're able to host your own Linx authentication service which generates the access tokens and stores them locally on your environment for later retrieval.
 
-Retrieve a list of recent commit activity for a chosen repo based on a date filter.
+A common issue that you may run into when working with the GitHub API is that you recieve the below response:
+```http
+Response code: 403 (Forbidden)
+Response Body:
+Request forbidden by administrative rules. Please make sure your request has a User-Agent header
+```
 
-1. Debug or drag the *GetCommitHistoryForRepo* function in your own function.
-1. Add your GitHub `access_token` as the input parameter.
-2. Add your repository owner name in the input parameter.
-1. Configure the 'since' and 'until' input parameters with your chosen dates.
-3. Run the function.
-3. View the list of commit details as the result of the function.
+This is a specific issue with the GitHub API, more details on the solution can be found [here](https://github.com/request/request#custom-http-headers).
 
+To resolve the issue, add the following as the `User-Agent` header when making requests:
+```http
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 YaBrowser/16.3.0.7146 Yowser/2.5 Safari/537.36
+```
 
 ## Contributing
 
-If you'd like to extend this sample, get in touch with support@linx.software.
-
-For questions please ask the [Linx community](https://linx/software/community) or use the [Slack channel](https://linxsoftware.slack.com/archives/C01FLBC1XNX). 
+For questions and issues please ask the [Linx community](https://linx/software/community) or use the [Slack channel](https://linxsoftware.slack.com/archives/C01FLBC1XNX). 
 
 ## License
 
