@@ -46,19 +46,6 @@ Authentication of requests is achieved via access tokens, the functions take in 
 
 You're able to generate and retrieve your token from an external authentication service or, alternatively, you're able to host your own Linx authentication service which generates the access tokens and stores them locally on your environment for later retrieval.
 
-A common issue that you may run into when working with the GitHub API is that you receive the below response:
-```http
-Response code: 403 (Forbidden)
-Response Body:
-Request forbidden by administrative rules. Please make sure your request has a User-Agent header
-```
-
-This is a specific issue with the GitHub API, more details on the solution can be found [here](https://github.com/request/request#custom-http-headers).
-
-To resolve the issue, add the following as the `User-Agent` header when making requests:
-```http
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 YaBrowser/16.3.0.7146 Yowser/2.5 Safari/537.36
-```
 
 ## Contributing
 
