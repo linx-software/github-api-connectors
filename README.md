@@ -33,19 +33,16 @@ You can now drag the required connector functions into your own custom functions
 This sample contains generic "connector" functions which can be imported and used in your own Linx Solution.
  
 Each connector function in the Solution follows the below structure:
-- Takes in an `access token` as an input parameter.
+- Takes in an "access token" value as an input parameter.
 - Takes in any data used for the request parameters such as query, path or requestBody values.
 - Makes a HTTP request to the API and returns a string response.
 - The response string is then de-serialized into the function result object type.
 
-For more technical details on the specific functions and Solution architecture take a look at the [wiki](https://github.com/linx-software/github-api-connectors/wiki).
-
 These functions do not persist any data and only return or send data that is received at runtime, therefore you must add your own data persistence layer if required.
 
-Authentication of requests is achieved via access tokens, the functions take in the `access_token` used in the request as an input parameter which is then added to the header of the request. This 'access token' needs to be passed in to each function by you, this could be retrieved from a database, file or external service. 
+Authentication of requests is achieved via access tokens, the functions take in the "access token" used in the request as an input parameter at runtime, which is then added to the header of the request. This "access token" needs to be passed in to each function by you, this could be retrieved from a database, file or external service.  You're able to generate and retrieve your token from an external authentication service or, alternatively, you're able to [host your own Linx authentication service](https://github.com/linx-software/linx-oauth2-token-service) which generates the access tokens and stores them locally on your environment for later retrieval. 
 
-You're able to generate and retrieve your token from an external authentication service or, alternatively, you're able to host your own Linx authentication service which generates the access tokens and stores them locally on your environment for later retrieval.
-
+For more technical details on the specific functions and Solution architecture take a look at the [wiki](https://github.com/linx-software/github-api-connectors/wiki/Connector-functions-technical-spec).
 
 ## Contributing
 
