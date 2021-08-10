@@ -7,7 +7,7 @@ This sample contains multiple pre-built [Linx](https://linx.software) functions 
 
 The goal of this Linx Solution is to ultimately include custom built connector functions for all the methods of the GitHub API specified [here](https://docs.github.com/en/rest/reference). 
 
-For a full list of the current connector functions contained in the sample, take a look at the [wiki](https://github.com/linx-software/github-api-connectors/wiki).
+For a full list of the current connector functions contained in the sample, take a look at the [wiki](https://github.com/linx-software/github-api-connectors/wiki/Connector-function-index).
 
 ## Installation
 
@@ -40,7 +40,7 @@ You're able to generate and retrieve your token from an external authentication 
 
 This sample contains generic "connector" functions which can be imported and used in your own Linx Solution.
 
-For a full list of the implemented methods, have a look at the [wiki](https://github.com/linx-software/github-api-connectors/wiki).
+For a full list of the implemented methods, have a look at the [wiki](https://github.com/linx-software/github-api-connectors/wiki/Connector-function-index).
  
 Each connector function in the Solution follows the below structure:
 - Takes in an "access token" value as an input parameter.
