@@ -63,7 +63,6 @@ If there are specific GitHub API operations that you would like to see in the sa
 For questions and issues please ask the [Linx community](https://linx/software/community) or use the [Slack channel](https://linxsoftware.slack.com/archives/C01FLBC1XNX). 
 
 
-## License
 
 ## License
 
