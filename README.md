@@ -65,5 +65,7 @@ For questions and issues please ask the [Linx community](https://linx/software/c
 
 ## License
 
+## License
 
+[MIT](https://github.com/linx-software/github-api-connectors/blob/main/LICENSE)
 
