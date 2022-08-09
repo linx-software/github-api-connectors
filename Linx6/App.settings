@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "LDkD",
+    "Name": "GitHubAccessToken",
+    "Type": "Compiled:String",
+    "Value": null
+  },
+  {
+    "Id": "0c9U",
+    "Name": "GitHubApiBaseUri",
+    "Type": "Compiled:String",
+    "Value": "https://api.github.com"
+  },
+  {
+    "Id": "xvxO",
+    "Name": "RootDrive",
+    "Type": "Compiled:String",
+    "Value": "C:/temp/linx-github/"
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "Properties": [
+    {
+      "Id": "Type",
+      "Type": "Compiled:Linx.ITypeReference",
+      "ValueUsage": "DesignTime",
+      "Value": "Custom:NuoD",
+      "ValueType": "Linx.ValidCustomTypeReference"
+    },
+    {
+      "Id": "Value",
+      "Type": "Custom:NuoD",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "ParsedExpression": "{\"access_token\":{\"LinxExpression\":\"[PARSED]\"}}",
+        "ExpressionPlaceholders": [
+          {
+            "typePath": [
+              "access_token"
+            ],
+            "expression": {
+              "Expression": "$.Parameters.AccessToken",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          }
+        ]
+      },
+      "ValueType": "Linx.JsonExpression"
+    }
+  ],
+  "Result": "Custom:NuoD"
+}

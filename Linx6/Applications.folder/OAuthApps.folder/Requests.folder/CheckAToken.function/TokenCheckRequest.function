@@ -1,0 +1,19 @@
+{
+  "Properties": [
+    {
+      "Id": "Type",
+      "Type": "Compiled:Linx.ITypeReference",
+      "ValueUsage": "DesignTime",
+      "Value": "Custom:NuoD",
+      "ValueType": "Linx.ValidCustomTypeReference"
+    },
+    {
+      "Id": "Value",
+      "Type": "Custom:NuoD",
+      "ValueUsage": "RuntimeRead",
+      "Value": "{}",
+      "ValueType": "String"
+    }
+  ],
+  "Result": "Custom:NuoD"
+}

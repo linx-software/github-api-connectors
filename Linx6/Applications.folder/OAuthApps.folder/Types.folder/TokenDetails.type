@@ -1,0 +1,71 @@
+{
+  "Id": "2cIJ",
+  "Name": "TokenDetails",
+  "Properties": [
+    {
+      "Id": "9nUc",
+      "Name": "id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "yViA",
+      "Name": "url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "d6cj",
+      "Name": "scopes",
+      "Type": "List:Compiled:String"
+    },
+    {
+      "Id": "s210",
+      "Name": "token",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "NtoQ",
+      "Name": "token_last_eight",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "j8cB",
+      "Name": "hashed_token",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "XjOb",
+      "Name": "app",
+      "Type": "Custom:WIbf"
+    },
+    {
+      "Id": "6Buy",
+      "Name": "note",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "NJNA",
+      "Name": "note_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "jvXw",
+      "Name": "updated_at",
+      "Type": "Compiled:DateTime"
+    },
+    {
+      "Id": "lGOG",
+      "Name": "created_at",
+      "Type": "Compiled:DateTime"
+    },
+    {
+      "Id": "dQIV",
+      "Name": "fingerprint",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "jyOq",
+      "Name": "user",
+      "Type": "Custom:Jwe7"
+    }
+  ]
+}

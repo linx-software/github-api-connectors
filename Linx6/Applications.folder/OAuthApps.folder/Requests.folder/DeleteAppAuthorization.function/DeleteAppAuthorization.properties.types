@@ -1,0 +1,28 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "ig2E",
+      "Properties": [
+        {
+          "Id": "Cvt6",
+          "Name": "AccessToken",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "MEsV",
+          "Name": "AppClientId",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "wmTQ",
+          "Name": "AppClientSecret",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

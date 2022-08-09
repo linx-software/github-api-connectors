@@ -1,0 +1,21 @@
+{
+  "Id": "WIbf",
+  "Name": "TokenDetails_app",
+  "Properties": [
+    {
+      "Id": "WO7R",
+      "Name": "url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "1I3Y",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ExsN",
+      "Name": "client_id",
+      "Type": "Compiled:String"
+    }
+  ]
+}

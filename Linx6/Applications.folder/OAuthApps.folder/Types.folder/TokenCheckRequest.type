@@ -1,0 +1,11 @@
+{
+  "Id": "NuoD",
+  "Name": "TokenCheckRequest",
+  "Properties": [
+    {
+      "Id": "1MQY",
+      "Name": "access_token",
+      "Type": "Compiled:String"
+    }
+  ]
+}
