@@ -11,6 +11,7 @@
   ],
   "Items": [
     "Function.function",
-    "Applications.folder"
+    "Applications.folder",
+    "CodeOfConduct.folder"
   ]
 }

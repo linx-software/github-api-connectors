@@ -1,0 +1,31 @@
+{
+  "Id": "WZX1",
+  "Name": "CoC",
+  "Properties": [
+    {
+      "Id": "vder",
+      "Name": "key",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "kax1",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "3wlV",
+      "Name": "url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "CMaw",
+      "Name": "html_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "hB0g",
+      "Name": "body",
+      "Type": "Compiled:String"
+    }
+  ]
+}
