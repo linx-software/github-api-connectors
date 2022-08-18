@@ -1,0 +1,16 @@
+{
+  "Id": "iIZ2",
+  "Name": "Content",
+  "Properties": [
+    {
+      "Id": "Khft",
+      "Name": "mode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "FYpT",
+      "Name": "text",
+      "Type": "Compiled:String"
+    }
+  ]
+}
