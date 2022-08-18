@@ -10,11 +10,11 @@
     "twenty57.linx.solutiondependencies.types, 1.1.0"
   ],
   "Items": [
-    "Function.function",
     "Applications.folder",
     "CodeOfConduct.folder",
     "Emojis.folder",
     "Licenses.folder",
-    "Markdown.folder"
+    "Markdown.folder",
+    "Meta.folder"
   ]
 }

@@ -1,0 +1,61 @@
+{
+  "Id": "KWJX",
+  "Name": "MetaInfo",
+  "Properties": [
+    {
+      "Id": "xSSG",
+      "Name": "verifiable_password_authentication",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "uzC3",
+      "Name": "ssh_key_fingerprints",
+      "Type": "Custom:yjtN"
+    },
+    {
+      "Id": "Tocv",
+      "Name": "hooks",
+      "Type": "List:Compiled:String"
+    },
+    {
+      "Id": "AL2S",
+      "Name": "web",
+      "Type": "List:Compiled:String"
+    },
+    {
+      "Id": "oL6A",
+      "Name": "api",
+      "Type": "List:Compiled:String"
+    },
+    {
+      "Id": "pIaM",
+      "Name": "git",
+      "Type": "List:Compiled:String"
+    },
+    {
+      "Id": "twxV",
+      "Name": "packages",
+      "Type": "List:Compiled:String"
+    },
+    {
+      "Id": "1EdH",
+      "Name": "pages",
+      "Type": "List:Compiled:String"
+    },
+    {
+      "Id": "BrnK",
+      "Name": "importer",
+      "Type": "List:Compiled:String"
+    },
+    {
+      "Id": "h27i",
+      "Name": "actions",
+      "Type": "List:Compiled:String"
+    },
+    {
+      "Id": "WKmy",
+      "Name": "dependabot",
+      "Type": "List:Compiled:String"
+    }
+  ]
+}

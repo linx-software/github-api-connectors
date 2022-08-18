@@ -1,0 +1,166 @@
+{
+  "Id": "w27o",
+  "Name": "MetaData",
+  "Properties": [
+    {
+      "Id": "WsjF",
+      "Name": "current_user_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ULDn",
+      "Name": "current_user_authorizations_html_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "3AY9",
+      "Name": "authorizations_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "vkNJ",
+      "Name": "code_search_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "D0kT",
+      "Name": "commit_search_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ZEeG",
+      "Name": "emails_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "9PN3",
+      "Name": "emojis_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "eIFv",
+      "Name": "events_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "o6xO",
+      "Name": "feeds_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "7CjR",
+      "Name": "followers_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "gi9w",
+      "Name": "following_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ug9t",
+      "Name": "gists_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ApBX",
+      "Name": "hub_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "CxW4",
+      "Name": "issue_search_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "dloD",
+      "Name": "issues_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "XeF2",
+      "Name": "keys_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "jHZ2",
+      "Name": "label_search_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "daXz",
+      "Name": "notifications_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ZssV",
+      "Name": "organization_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "jPBF",
+      "Name": "organization_repositories_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "12af",
+      "Name": "organization_teams_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "F2HC",
+      "Name": "public_gists_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "5bhE",
+      "Name": "rate_limit_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "8PF4",
+      "Name": "repository_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "nLoJ",
+      "Name": "repository_search_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "l2tU",
+      "Name": "current_user_repositories_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "HaZE",
+      "Name": "starred_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "znmX",
+      "Name": "starred_gists_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "LssT",
+      "Name": "user_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "RkEF",
+      "Name": "user_organizations_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "GLbJ",
+      "Name": "user_repositories_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "fB3N",
+      "Name": "user_search_url",
+      "Type": "Compiled:String"
+    }
+  ]
+}

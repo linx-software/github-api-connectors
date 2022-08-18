@@ -1,0 +1,16 @@
+{
+  "Id": "yjtN",
+  "Name": "MetaInfo_ssh_key_fingerprints",
+  "Properties": [
+    {
+      "Id": "Inwm",
+      "Name": "SHA256_RSA",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Bfu7",
+      "Name": "SHA256_DSA",
+      "Type": "Compiled:String"
+    }
+  ]
+}
