@@ -1,0 +1,71 @@
+{
+  "Id": "POH5",
+  "Name": "RepoLicense",
+  "Properties": [
+    {
+      "Id": "gfWr",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Knxo",
+      "Name": "path",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "krGb",
+      "Name": "sha",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "2yZA",
+      "Name": "size",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "uS5X",
+      "Name": "url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "t5Wi",
+      "Name": "html_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "yQs2",
+      "Name": "git_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "5m4G",
+      "Name": "download_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "3ZWG",
+      "Name": "type",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "QAUi",
+      "Name": "content",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "vI5k",
+      "Name": "encoding",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Gvxn",
+      "Name": "_links",
+      "Type": "Custom:yL5O"
+    },
+    {
+      "Id": "wwXM",
+      "Name": "license",
+      "Type": "Custom:lARA"
+    }
+  ]
+}

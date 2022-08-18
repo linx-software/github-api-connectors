@@ -1,0 +1,21 @@
+{
+  "Id": "yL5O",
+  "Name": "RepoLicense__links",
+  "Properties": [
+    {
+      "Id": "5BSH",
+      "Name": "self",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "8itM",
+      "Name": "git",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "MMPp",
+      "Name": "html",
+      "Type": "Compiled:String"
+    }
+  ]
+}

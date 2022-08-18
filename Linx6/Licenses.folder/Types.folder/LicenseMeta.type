@@ -1,0 +1,31 @@
+{
+  "Id": "I1hT",
+  "Name": "LicenseMeta",
+  "Properties": [
+    {
+      "Id": "dfTE",
+      "Name": "key",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "sRbt",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "uqrs",
+      "Name": "spdx_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "cyuf",
+      "Name": "url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "xwK9",
+      "Name": "node_id",
+      "Type": "Compiled:String"
+    }
+  ]
+}

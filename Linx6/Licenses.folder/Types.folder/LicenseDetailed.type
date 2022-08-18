@@ -1,0 +1,71 @@
+{
+  "Id": "iFcq",
+  "Name": "LicenseDetailed",
+  "Properties": [
+    {
+      "Id": "oPum",
+      "Name": "key",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "DcCo",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "vzl5",
+      "Name": "spdx_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "DqIa",
+      "Name": "url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "xTl7",
+      "Name": "node_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "y13q",
+      "Name": "html_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "titu",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "xv8X",
+      "Name": "implementation",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "px2i",
+      "Name": "permissions",
+      "Type": "List:Compiled:String"
+    },
+    {
+      "Id": "mSAj",
+      "Name": "conditions",
+      "Type": "List:Compiled:String"
+    },
+    {
+      "Id": "t5Dj",
+      "Name": "limitations",
+      "Type": "List:Compiled:String"
+    },
+    {
+      "Id": "rNXE",
+      "Name": "body",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "w3MY",
+      "Name": "featured",
+      "Type": "Compiled:Boolean"
+    }
+  ]
+}

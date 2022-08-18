@@ -1,0 +1,31 @@
+{
+  "Id": "lARA",
+  "Name": "RepoLicense_license",
+  "Properties": [
+    {
+      "Id": "7RK8",
+      "Name": "key",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "k7Gp",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ymGy",
+      "Name": "spdx_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "VNS4",
+      "Name": "url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "FRGK",
+      "Name": "node_id",
+      "Type": "Compiled:String"
+    }
+  ]
+}
