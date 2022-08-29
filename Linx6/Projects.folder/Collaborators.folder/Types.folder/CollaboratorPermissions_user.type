@@ -1,0 +1,96 @@
+{
+  "Id": "zgFJ",
+  "Name": "CollaboratorPermissions_user",
+  "Properties": [
+    {
+      "Id": "e7uj",
+      "Name": "login",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "I6lU",
+      "Name": "id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "0N2d",
+      "Name": "node_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "QstF",
+      "Name": "avatar_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "LDHQ",
+      "Name": "gravatar_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "QfZk",
+      "Name": "url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "KUeH",
+      "Name": "html_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "mnYV",
+      "Name": "followers_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "XUZu",
+      "Name": "following_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "IsTN",
+      "Name": "gists_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Oia9",
+      "Name": "starred_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "FChd",
+      "Name": "subscriptions_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "UlHt",
+      "Name": "organizations_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "DS4b",
+      "Name": "repos_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "4CJe",
+      "Name": "events_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "lhXh",
+      "Name": "received_events_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "WoKw",
+      "Name": "type",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "04bv",
+      "Name": "site_admin",
+      "Type": "Compiled:Boolean"
+    }
+  ]
+}

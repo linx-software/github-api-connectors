@@ -1,0 +1,46 @@
+{
+  "Id": "AS5Z",
+  "Name": "ProjectColumn",
+  "Properties": [
+    {
+      "Id": "nz0I",
+      "Name": "url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "1BwB",
+      "Name": "project_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "WjSp",
+      "Name": "cards_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Mduw",
+      "Name": "id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "rvMX",
+      "Name": "node_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "46yW",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "mhJw",
+      "Name": "created_at",
+      "Type": "Compiled:DateTime"
+    },
+    {
+      "Id": "YjnS",
+      "Name": "updated_at",
+      "Type": "Compiled:DateTime"
+    }
+  ]
+}

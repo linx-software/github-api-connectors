@@ -1,0 +1,11 @@
+{
+  "Id": "wtKu",
+  "Name": "ColumnName",
+  "Properties": [
+    {
+      "Id": "jffk",
+      "Name": "name",
+      "Type": "Compiled:String"
+    }
+  ]
+}

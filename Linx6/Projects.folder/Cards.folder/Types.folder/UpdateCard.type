@@ -1,0 +1,16 @@
+{
+  "Id": "te03",
+  "Name": "UpdateCard",
+  "Properties": [
+    {
+      "Id": "CSxg",
+      "Name": "note",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "8L5K",
+      "Name": "archived",
+      "Type": "Compiled:Boolean"
+    }
+  ]
+}

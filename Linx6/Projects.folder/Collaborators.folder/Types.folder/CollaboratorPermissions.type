@@ -1,0 +1,16 @@
+{
+  "Id": "NFv6",
+  "Name": "CollaboratorPermissions",
+  "Properties": [
+    {
+      "Id": "APUJ",
+      "Name": "permission",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "G8xz",
+      "Name": "user",
+      "Type": "Custom:zgFJ"
+    }
+  ]
+}

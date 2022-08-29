@@ -1,0 +1,61 @@
+{
+  "Id": "XtQE",
+  "Name": "Card",
+  "Properties": [
+    {
+      "Id": "eawh",
+      "Name": "url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "KHjb",
+      "Name": "id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "mO7k",
+      "Name": "node_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ROMh",
+      "Name": "note",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "wwgq",
+      "Name": "creator",
+      "Type": "Custom:iowl"
+    },
+    {
+      "Id": "au1P",
+      "Name": "created_at",
+      "Type": "Compiled:DateTime"
+    },
+    {
+      "Id": "97LJ",
+      "Name": "updated_at",
+      "Type": "Compiled:DateTime"
+    },
+    {
+      "Id": "YhBP",
+      "Name": "archived",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "Nuo9",
+      "Name": "column_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "CMG1",
+      "Name": "content_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "kVZX",
+      "Name": "project_url",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "PYaw",
+  "Name": "ColumnPosition",
+  "Properties": [
+    {
+      "Id": "IVVX",
+      "Name": "position",
+      "Type": "Compiled:String"
+    }
+  ]
+}

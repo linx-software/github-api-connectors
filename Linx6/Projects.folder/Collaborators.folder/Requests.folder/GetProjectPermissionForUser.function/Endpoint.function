@@ -1,0 +1,16 @@
+{
+  "Properties": [
+    {
+      "Id": "Value",
+      "Type": "Compiled:String",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "\"/projects/\" + $.Parameters.ProjectId + \"/collaborators/\" + $.Parameters.GitHubUsername + \"/permission\"",
+        "CompiledExpression": "=\"/projects/\"+{1}+\"/collaborators/\"+{0}+\"/permission\"",
+        "Type": "Compiled:String"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ],
+  "Result": "Compiled:String"
+}

@@ -1,0 +1,96 @@
+{
+  "Id": "iowl",
+  "Name": "Card_creator",
+  "Properties": [
+    {
+      "Id": "Dv6T",
+      "Name": "login",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "MZF1",
+      "Name": "id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "WbUO",
+      "Name": "node_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "PV7i",
+      "Name": "avatar_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "3TAy",
+      "Name": "gravatar_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "DUBF",
+      "Name": "url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Lj6M",
+      "Name": "html_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "XJus",
+      "Name": "followers_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "FxR7",
+      "Name": "following_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "qgiH",
+      "Name": "gists_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "iK47",
+      "Name": "starred_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "V4So",
+      "Name": "subscriptions_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ha6r",
+      "Name": "organizations_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "i9zJ",
+      "Name": "repos_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "xITr",
+      "Name": "events_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "f2C2",
+      "Name": "received_events_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "hlN9",
+      "Name": "type",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "zcPR",
+      "Name": "site_admin",
+      "Type": "Compiled:Boolean"
+    }
+  ]
+}

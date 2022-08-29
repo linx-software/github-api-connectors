@@ -1,0 +1,11 @@
+{
+  "Id": "CnYP",
+  "Name": "NewCard",
+  "Properties": [
+    {
+      "Id": "g3RX",
+      "Name": "note",
+      "Type": "Compiled:String"
+    }
+  ]
+}

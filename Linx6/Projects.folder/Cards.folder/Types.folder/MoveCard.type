@@ -1,0 +1,16 @@
+{
+  "Id": "eoNA",
+  "Name": "MoveCard",
+  "Properties": [
+    {
+      "Id": "3jFT",
+      "Name": "position",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "mzj4",
+      "Name": "column_id",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}
