@@ -1,0 +1,16 @@
+{
+  "Id": "Q28w",
+  "Name": "AppInstallations",
+  "Properties": [
+    {
+      "Id": "QNKe",
+      "Name": "total_count",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "TBDZ",
+      "Name": "installations",
+      "Type": "List:Custom:eTIo"
+    }
+  ]
+}

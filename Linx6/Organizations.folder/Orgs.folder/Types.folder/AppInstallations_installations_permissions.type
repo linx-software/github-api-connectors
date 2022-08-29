@@ -1,0 +1,26 @@
+{
+  "Id": "bblH",
+  "Name": "AppInstallations_installations_permissions",
+  "Properties": [
+    {
+      "Id": "Yofx",
+      "Name": "deployments",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "9iHb",
+      "Name": "metadata",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "60S0",
+      "Name": "pull_requests",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "5BV1",
+      "Name": "statuses",
+      "Type": "Compiled:String"
+    }
+  ]
+}

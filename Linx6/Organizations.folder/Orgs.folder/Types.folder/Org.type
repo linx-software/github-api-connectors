@@ -1,0 +1,66 @@
+{
+  "Id": "eZIp",
+  "Name": "Org",
+  "Properties": [
+    {
+      "Id": "sHh4",
+      "Name": "login",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "nuGv",
+      "Name": "id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "6n9N",
+      "Name": "node_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "uZSQ",
+      "Name": "url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "OoUP",
+      "Name": "repos_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "N8cy",
+      "Name": "events_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "dout",
+      "Name": "hooks_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ZrI3",
+      "Name": "issues_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "9P8Y",
+      "Name": "members_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "TmkN",
+      "Name": "public_members_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "X6O4",
+      "Name": "avatar_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "61Yr",
+      "Name": "description",
+      "Type": "Compiled:String"
+    }
+  ]
+}

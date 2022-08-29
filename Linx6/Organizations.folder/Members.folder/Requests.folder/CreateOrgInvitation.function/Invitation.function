@@ -1,0 +1,53 @@
+{
+  "Properties": [
+    {
+      "Id": "Type",
+      "Type": "Compiled:Linx.ITypeReference",
+      "ValueUsage": "DesignTime",
+      "Value": "Custom:E5kj",
+      "ValueType": "Linx.ValidCustomTypeReference"
+    },
+    {
+      "Id": "Value",
+      "Type": "Custom:E5kj",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "ParsedExpression": "{\"email\":{\"LinxExpression\":\"[PARSED]\"}, \"role\":{\"LinxExpression\":\"[PARSED]\"}, \"team_ids\":{\"LinxExpression\":\"[PARSED]\"}}",
+        "ExpressionPlaceholders": [
+          {
+            "typePath": [
+              "email"
+            ],
+            "expression": {
+              "Expression": "$.Parameters.InviteeEmail",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          },
+          {
+            "typePath": [
+              "role"
+            ],
+            "expression": {
+              "Expression": "$.Parameters.Role",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          },
+          {
+            "typePath": [
+              "team_ids"
+            ],
+            "expression": {
+              "Expression": "$.Parameters.TeamIds",
+              "CompiledExpression": "={0}",
+              "Type": "List:Compiled:Int64"
+            }
+          }
+        ]
+      },
+      "ValueType": "Linx.JsonExpression"
+    }
+  ],
+  "Result": "Custom:E5kj"
+}

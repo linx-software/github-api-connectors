@@ -1,0 +1,31 @@
+{
+  "Id": "wnP3",
+  "Name": "OrgDetailed_plan",
+  "Properties": [
+    {
+      "Id": "gMQ0",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "lcI1",
+      "Name": "space",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "mRfH",
+      "Name": "private_repos",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "zdsq",
+      "Name": "filled_seats",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "1r9Q",
+      "Name": "seats",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

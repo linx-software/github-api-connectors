@@ -1,0 +1,21 @@
+{
+  "Id": "E5kj",
+  "Name": "Invitation",
+  "Properties": [
+    {
+      "Id": "H2kx",
+      "Name": "email",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ikBp",
+      "Name": "role",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "u9V7",
+      "Name": "team_ids",
+      "Type": "List:Compiled:Int64"
+    }
+  ]
+}

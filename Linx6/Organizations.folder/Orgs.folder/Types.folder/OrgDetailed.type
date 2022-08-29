@@ -1,0 +1,226 @@
+{
+  "Id": "6RM9",
+  "Name": "OrgDetailed",
+  "Properties": [
+    {
+      "Id": "tNZ9",
+      "Name": "login",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "nOp6",
+      "Name": "id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "xiDO",
+      "Name": "node_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "8peR",
+      "Name": "url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "zrEN",
+      "Name": "repos_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "l0jZ",
+      "Name": "events_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "AF8D",
+      "Name": "hooks_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "qXnj",
+      "Name": "issues_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Xbhe",
+      "Name": "members_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "AImU",
+      "Name": "public_members_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "NJFN",
+      "Name": "avatar_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "fk4f",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "3yVy",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "HtdT",
+      "Name": "company",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "pJKX",
+      "Name": "blog",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "GNkA",
+      "Name": "location",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "SHfR",
+      "Name": "email",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "zIu4",
+      "Name": "twitter_username",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "KQGA",
+      "Name": "is_verified",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "hWZl",
+      "Name": "has_organization_projects",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "WiRK",
+      "Name": "has_repository_projects",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "qvEK",
+      "Name": "public_repos",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "rPdJ",
+      "Name": "public_gists",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "tZld",
+      "Name": "followers",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "RFHW",
+      "Name": "following",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "F2go",
+      "Name": "html_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "r10z",
+      "Name": "created_at",
+      "Type": "Compiled:DateTime"
+    },
+    {
+      "Id": "IXY3",
+      "Name": "updated_at",
+      "Type": "Compiled:DateTime"
+    },
+    {
+      "Id": "Ro9z",
+      "Name": "type",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "mbvh",
+      "Name": "total_private_repos",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "jCKQ",
+      "Name": "owned_private_repos",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "6BfU",
+      "Name": "private_gists",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "ksQH",
+      "Name": "disk_usage",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "In06",
+      "Name": "collaborators",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "YMLV",
+      "Name": "billing_email",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "h7G9",
+      "Name": "plan",
+      "Type": "Custom:wnP3"
+    },
+    {
+      "Id": "kxuz",
+      "Name": "default_repository_permission",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "9o8I",
+      "Name": "members_can_create_repositories",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "v8SY",
+      "Name": "two_factor_requirement_enabled",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "Kle1",
+      "Name": "members_allowed_repository_creation_type",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "5Riz",
+      "Name": "members_can_create_public_repositories",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "KHFc",
+      "Name": "members_can_create_private_repositories",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "A53h",
+      "Name": "members_can_create_internal_repositories",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "w8FS",
+      "Name": "members_can_create_pages",
+      "Type": "Compiled:Boolean"
+    }
+  ]
+}

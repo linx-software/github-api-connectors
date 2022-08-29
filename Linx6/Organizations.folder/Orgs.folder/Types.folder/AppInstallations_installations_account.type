@@ -1,0 +1,96 @@
+{
+  "Id": "JNbF",
+  "Name": "AppInstallations_installations_account",
+  "Properties": [
+    {
+      "Id": "8G3X",
+      "Name": "login",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Mpup",
+      "Name": "id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "t4Wk",
+      "Name": "node_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "iSmM",
+      "Name": "avatar_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "x7ye",
+      "Name": "gravatar_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "MPB1",
+      "Name": "url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "e6Hk",
+      "Name": "html_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ity2",
+      "Name": "followers_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "A0DA",
+      "Name": "following_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Xmzg",
+      "Name": "gists_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "P3pY",
+      "Name": "starred_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "JPwE",
+      "Name": "subscriptions_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Xwpf",
+      "Name": "organizations_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "50D2",
+      "Name": "repos_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "XmoD",
+      "Name": "events_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "8kJs",
+      "Name": "received_events_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ygl7",
+      "Name": "type",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ML8p",
+      "Name": "site_admin",
+      "Type": "Compiled:Boolean"
+    }
+  ]
+}

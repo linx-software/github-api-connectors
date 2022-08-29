@@ -1,0 +1,101 @@
+{
+  "Id": "eTIo",
+  "Name": "AppInstallations_installations",
+  "Properties": [
+    {
+      "Id": "lY4U",
+      "Name": "id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "Omdc",
+      "Name": "account",
+      "Type": "Custom:JNbF"
+    },
+    {
+      "Id": "WbsV",
+      "Name": "repository_selection",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "sgA8",
+      "Name": "access_tokens_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "sS4f",
+      "Name": "repositories_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ykhn",
+      "Name": "html_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "BKBv",
+      "Name": "app_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "Ney6",
+      "Name": "target_id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "3ybB",
+      "Name": "target_type",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "2nvF",
+      "Name": "permissions",
+      "Type": "Custom:bblH"
+    },
+    {
+      "Id": "Rl1E",
+      "Name": "events",
+      "Type": "List:Compiled:String"
+    },
+    {
+      "Id": "eHKP",
+      "Name": "created_at",
+      "Type": "Compiled:DateTime"
+    },
+    {
+      "Id": "09og",
+      "Name": "updated_at",
+      "Type": "Compiled:DateTime"
+    },
+    {
+      "Id": "R02M",
+      "Name": "single_file_name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "RKgO",
+      "Name": "has_multiple_single_files",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "AtU7",
+      "Name": "single_file_paths",
+      "Type": "List:Compiled:String"
+    },
+    {
+      "Id": "wCCY",
+      "Name": "app_slug",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "5YYj",
+      "Name": "suspended_at",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "m5lp",
+      "Name": "suspended_by",
+      "Type": "Compiled:String"
+    }
+  ]
+}
