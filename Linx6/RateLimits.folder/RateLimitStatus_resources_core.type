@@ -1,0 +1,26 @@
+{
+  "Id": "IEZr",
+  "Name": "RateLimitStatus_resources_core",
+  "Properties": [
+    {
+      "Id": "eHDj",
+      "Name": "limit",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "bSFv",
+      "Name": "remaining",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "OZRr",
+      "Name": "reset",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "5US9",
+      "Name": "used",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

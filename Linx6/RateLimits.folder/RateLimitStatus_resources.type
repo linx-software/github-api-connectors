@@ -1,0 +1,31 @@
+{
+  "Id": "cJwU",
+  "Name": "RateLimitStatus_resources",
+  "Properties": [
+    {
+      "Id": "KpIU",
+      "Name": "core",
+      "Type": "Custom:IEZr"
+    },
+    {
+      "Id": "9TzW",
+      "Name": "search",
+      "Type": "Custom:IEZr"
+    },
+    {
+      "Id": "kSEc",
+      "Name": "graphql",
+      "Type": "Custom:IEZr"
+    },
+    {
+      "Id": "zd2C",
+      "Name": "integration_manifest",
+      "Type": "Custom:IEZr"
+    },
+    {
+      "Id": "yPTQ",
+      "Name": "code_scanning_upload",
+      "Type": "Custom:IEZr"
+    }
+  ]
+}

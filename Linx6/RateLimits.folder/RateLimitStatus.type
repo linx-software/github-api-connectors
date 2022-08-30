@@ -1,0 +1,16 @@
+{
+  "Id": "OF6C",
+  "Name": "RateLimitStatus",
+  "Properties": [
+    {
+      "Id": "xGmB",
+      "Name": "resources",
+      "Type": "Custom:cJwU"
+    },
+    {
+      "Id": "c7Uj",
+      "Name": "rate",
+      "Type": "Custom:IEZr"
+    }
+  ]
+}
