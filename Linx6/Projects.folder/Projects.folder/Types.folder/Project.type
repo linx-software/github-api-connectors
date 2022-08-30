@@ -1,0 +1,71 @@
+{
+  "Id": "FxJz",
+  "Name": "Project",
+  "Properties": [
+    {
+      "Id": "ZXoi",
+      "Name": "owner_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "JvOQ",
+      "Name": "url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "yXGN",
+      "Name": "html_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "g5Db",
+      "Name": "columns_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Hcur",
+      "Name": "id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "1bfO",
+      "Name": "node_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "XpPM",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "I8Jv",
+      "Name": "body",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "sDqw",
+      "Name": "number",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "jorc",
+      "Name": "state",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "qQ4M",
+      "Name": "creator",
+      "Type": "Custom:vOZC"
+    },
+    {
+      "Id": "8UGV",
+      "Name": "created_at",
+      "Type": "Compiled:DateTime"
+    },
+    {
+      "Id": "98VP",
+      "Name": "updated_at",
+      "Type": "Compiled:DateTime"
+    }
+  ]
+}

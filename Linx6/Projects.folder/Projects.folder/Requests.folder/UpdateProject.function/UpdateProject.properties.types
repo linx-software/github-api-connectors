@@ -1,0 +1,52 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "pFHS",
+      "Properties": [
+        {
+          "Id": "tz1U",
+          "Name": "AccessToken",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "JQYl",
+          "Name": "DefaultState",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "VaCt",
+          "Name": "IsPrivate",
+          "Type": "Compiled:Boolean",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "PoKH",
+          "Name": "OrgPermissions",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "TeDC",
+          "Name": "ProjectDesc",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "NNh6",
+          "Name": "ProjectId",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "YkZj",
+          "Name": "ProjectName",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

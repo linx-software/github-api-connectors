@@ -1,0 +1,16 @@
+{
+  "Id": "ADyz",
+  "Name": "NewProject",
+  "Properties": [
+    {
+      "Id": "VOpW",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "F4Za",
+      "Name": "body",
+      "Type": "Compiled:String"
+    }
+  ]
+}

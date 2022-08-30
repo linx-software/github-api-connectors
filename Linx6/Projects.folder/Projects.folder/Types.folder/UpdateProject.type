@@ -1,0 +1,31 @@
+{
+  "Id": "VM02",
+  "Name": "UpdateProject",
+  "Properties": [
+    {
+      "Id": "eMyr",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "h4GJ",
+      "Name": "body",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "HoiB",
+      "Name": "state",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "DbGe",
+      "Name": "private",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "30p0",
+      "Name": "organization_permission",
+      "Type": "Compiled:String"
+    }
+  ]
+}

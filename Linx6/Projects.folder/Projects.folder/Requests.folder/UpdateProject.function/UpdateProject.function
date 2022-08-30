@@ -1,0 +1,73 @@
+{
+  "Properties": [
+    {
+      "Id": "Type",
+      "Type": "Compiled:Linx.ITypeReference",
+      "ValueUsage": "DesignTime",
+      "Value": "Custom:VM02",
+      "ValueType": "Linx.ValidCustomTypeReference"
+    },
+    {
+      "Id": "Value",
+      "Type": "Custom:VM02",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "ParsedExpression": "{\"name\":{\"LinxExpression\":\"[PARSED]\"}, \"body\":{\"LinxExpression\":\"[PARSED]\"}, \"state\":{\"LinxExpression\":\"[PARSED]\"}, \"private\":{\"LinxExpression\":\"[PARSED]\"}, \"organization_permission\":{\"LinxExpression\":\"[PARSED]\"}}",
+        "ExpressionPlaceholders": [
+          {
+            "typePath": [
+              "name"
+            ],
+            "expression": {
+              "Expression": "$.Parameters.ProjectName",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          },
+          {
+            "typePath": [
+              "body"
+            ],
+            "expression": {
+              "Expression": "$.Parameters.ProjectDesc",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          },
+          {
+            "typePath": [
+              "state"
+            ],
+            "expression": {
+              "Expression": "$.Parameters.DefaultState",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          },
+          {
+            "typePath": [
+              "private"
+            ],
+            "expression": {
+              "Expression": "$.Parameters.IsPrivate",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:Boolean"
+            }
+          },
+          {
+            "typePath": [
+              "organization_permission"
+            ],
+            "expression": {
+              "Expression": "$.System.Null",
+              "CompiledExpression": "={0}",
+              "Type": null
+            }
+          }
+        ]
+      },
+      "ValueType": "Linx.JsonExpression"
+    }
+  ],
+  "Result": "Custom:VM02"
+}
