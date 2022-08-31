@@ -1,0 +1,21 @@
+{
+  "Id": "6gbF",
+  "Name": "commit_commit_Type",
+  "Properties": [
+    {
+      "Id": "5UCu",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "uTKy",
+      "Name": "email",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "lDvS",
+      "Name": "date",
+      "Type": "Compiled:DateTime"
+    }
+  ]
+}

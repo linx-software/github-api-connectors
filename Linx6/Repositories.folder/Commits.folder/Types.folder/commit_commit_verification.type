@@ -1,0 +1,26 @@
+{
+  "Id": "Ze8J",
+  "Name": "commit_commit_verification",
+  "Properties": [
+    {
+      "Id": "t7VU",
+      "Name": "verified",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "Ku7H",
+      "Name": "reason",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "FOgg",
+      "Name": "signature",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "XnH7",
+      "Name": "payload",
+      "Type": "Compiled:String"
+    }
+  ]
+}

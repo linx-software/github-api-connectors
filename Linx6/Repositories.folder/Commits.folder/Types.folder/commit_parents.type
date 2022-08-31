@@ -1,0 +1,21 @@
+{
+  "Id": "10D7",
+  "Name": "commit_parents",
+  "Properties": [
+    {
+      "Id": "AJt3",
+      "Name": "sha",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "T0AN",
+      "Name": "url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "r453",
+      "Name": "html_url",
+      "Type": "Compiled:String"
+    }
+  ]
+}

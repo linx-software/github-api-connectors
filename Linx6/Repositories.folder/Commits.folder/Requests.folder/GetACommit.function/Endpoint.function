@@ -1,0 +1,16 @@
+{
+  "Properties": [
+    {
+      "Id": "Value",
+      "Type": "Compiled:String",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "\"/repos/\"+ $.Parameters.Owner +\"/\"+$.Parameters.Repo + \"/commits/\" + $.Parameters.CommitRef",
+        "CompiledExpression": "=\"/repos/\"+{2}+\"/\"+{1}+\"/commits/\"+{0}",
+        "Type": "Compiled:String"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ],
+  "Result": "Compiled:String"
+}

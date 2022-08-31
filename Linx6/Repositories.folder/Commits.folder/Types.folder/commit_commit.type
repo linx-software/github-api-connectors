@@ -1,0 +1,41 @@
+{
+  "Id": "UdlD",
+  "Name": "commit_commit",
+  "Properties": [
+    {
+      "Id": "jmyY",
+      "Name": "author",
+      "Type": "Custom:6gbF"
+    },
+    {
+      "Id": "yJpV",
+      "Name": "committer",
+      "Type": "Custom:6gbF"
+    },
+    {
+      "Id": "ytir",
+      "Name": "message",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "eZSX",
+      "Name": "tree",
+      "Type": "Custom:rgUV"
+    },
+    {
+      "Id": "6jgC",
+      "Name": "url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Zqta",
+      "Name": "comment_count",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "QdLt",
+      "Name": "verification",
+      "Type": "Custom:Ze8J"
+    }
+  ]
+}

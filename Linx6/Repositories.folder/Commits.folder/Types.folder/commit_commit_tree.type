@@ -1,0 +1,16 @@
+{
+  "Id": "rgUV",
+  "Name": "commit_commit_tree",
+  "Properties": [
+    {
+      "Id": "IX0J",
+      "Name": "sha",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ATuZ",
+      "Name": "url",
+      "Type": "Compiled:String"
+    }
+  ]
+}
