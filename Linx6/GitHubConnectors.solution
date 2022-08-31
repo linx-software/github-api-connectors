@@ -19,6 +19,7 @@
     "Meta.folder",
     "Organizations.folder",
     "Projects.folder",
-    "RateLimits.folder"
+    "RateLimits.folder",
+    "Repositories.folder"
   ]
 }
