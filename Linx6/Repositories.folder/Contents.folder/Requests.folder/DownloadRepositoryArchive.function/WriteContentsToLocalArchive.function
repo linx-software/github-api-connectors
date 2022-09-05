@@ -1,0 +1,39 @@
+{
+  "Properties": [
+    {
+      "Id": "Contents",
+      "Type": "Compiled:System.Collections.Generic.IEnumerable`1[[System.Byte, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "CallRESTEndpoint.ResponseBody",
+        "CompiledExpression": "={0}",
+        "Type": "Compiled:String"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "File Does Not Exist",
+      "Type": "Compiled:Twenty57.Linx.Plugins.File.Common.FileReadWrite.DoesNotExistOptions, Twenty57.Linx.Plugins.File, Version=1.0.5.0, Culture=neutral, PublicKeyToken=null",
+      "ValueUsage": "DesignTime",
+      "Value": "CreateFile"
+    },
+    {
+      "Id": "File Exists",
+      "Type": "Compiled:Twenty57.Linx.Plugins.File.Common.FileReadWrite.ExistOptions, Twenty57.Linx.Plugins.File, Version=1.0.5.0, Culture=neutral, PublicKeyToken=null",
+      "ValueUsage": "DesignTime",
+      "Value": "AppendData"
+    },
+    {
+      "Id": "File path",
+      "Type": "Compiled:Twenty57.Linx.Plugins.File.Common.FileReadWrite.BinaryFileHandle, Twenty57.Linx.Plugins.File, Version=1.0.5.0, Culture=neutral, PublicKeyToken=null",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "$.Parameters.LocalArchivePath",
+        "CompiledExpression": "={0}",
+        "Type": "Compiled:String"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ],
+  "Result": "Compiled:String"
+}

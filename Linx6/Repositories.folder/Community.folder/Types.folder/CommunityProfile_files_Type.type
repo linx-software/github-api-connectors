@@ -1,0 +1,16 @@
+{
+  "Id": "G25S",
+  "Name": "CommunityProfile_files_Type",
+  "Properties": [
+    {
+      "Id": "ilLt",
+      "Name": "url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "DhwR",
+      "Name": "html_url",
+      "Type": "Compiled:String"
+    }
+  ]
+}

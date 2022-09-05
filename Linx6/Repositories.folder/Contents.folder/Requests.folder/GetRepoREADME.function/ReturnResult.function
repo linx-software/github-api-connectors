@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "Source",
+      "Type": "Custom:KH4o",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "CallRESTEndpoint.ResponseBody",
+        "CompiledExpression": "={0}",
+        "Type": "Compiled:String"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Target",
+      "Type": "Custom:KH4o",
+      "ValueUsage": "RuntimeWrite",
+      "Value": {
+        "Expression": "$.Result",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:KH4o"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

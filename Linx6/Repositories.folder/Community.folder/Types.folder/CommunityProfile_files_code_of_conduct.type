@@ -1,0 +1,26 @@
+{
+  "Id": "txNj",
+  "Name": "CommunityProfile_files_code_of_conduct",
+  "Properties": [
+    {
+      "Id": "dYWf",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "xGdt",
+      "Name": "key",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ReZq",
+      "Name": "url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "rNbf",
+      "Name": "html_url",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "Id": "KH4o",
+  "Name": "Content",
+  "Properties": [
+    {
+      "Id": "ENTq",
+      "Name": "type",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "fDDR",
+      "Name": "encoding",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "dl9W",
+      "Name": "size",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "jFYA",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "mDPR",
+      "Name": "path",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "kvus",
+      "Name": "content",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "rP4s",
+      "Name": "sha",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "N61G",
+      "Name": "url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "CVoX",
+      "Name": "git_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "3371",
+      "Name": "html_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "iMaf",
+      "Name": "download_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "F4iM",
+      "Name": "_links",
+      "Type": "Custom:jHDX"
+    }
+  ]
+}

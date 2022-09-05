@@ -1,6 +1,7 @@
 {
   "ApplicationVersion": "6.3.1",
   "Plugins": [
+    "twenty57.linx.plugins.file, 1.0.5",
     "twenty57.linx.plugins.json, 1.0.2",
     "twenty57.linx.plugins.rest, 1.1.0",
     "twenty57.linx.plugins.standard, 1.0.2",

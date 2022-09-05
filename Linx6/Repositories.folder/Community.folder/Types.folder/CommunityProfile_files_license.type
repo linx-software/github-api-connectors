@@ -1,0 +1,36 @@
+{
+  "Id": "dbqa",
+  "Name": "CommunityProfile_files_license",
+  "Properties": [
+    {
+      "Id": "PePl",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "BsFy",
+      "Name": "key",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "2eSF",
+      "Name": "spdx_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "3Xs9",
+      "Name": "url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ReCK",
+      "Name": "html_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ntEH",
+      "Name": "node_id",
+      "Type": "Compiled:String"
+    }
+  ]
+}

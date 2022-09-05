@@ -1,0 +1,36 @@
+{
+  "Id": "6mpf",
+  "Name": "CommunityProfile",
+  "Properties": [
+    {
+      "Id": "uEK4",
+      "Name": "health_percentage",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "RTWB",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "aoNd",
+      "Name": "documentation",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "K8X9",
+      "Name": "files",
+      "Type": "Custom:2pNw"
+    },
+    {
+      "Id": "7NaD",
+      "Name": "updated_at",
+      "Type": "Compiled:DateTime"
+    },
+    {
+      "Id": "Qzsy",
+      "Name": "content_reports_enabled",
+      "Type": "Compiled:Boolean"
+    }
+  ]
+}

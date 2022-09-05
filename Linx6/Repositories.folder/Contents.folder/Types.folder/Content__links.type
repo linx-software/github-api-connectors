@@ -1,0 +1,21 @@
+{
+  "Id": "jHDX",
+  "Name": "Content__links",
+  "Properties": [
+    {
+      "Id": "KGks",
+      "Name": "git",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "6EHZ",
+      "Name": "self",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "kc5G",
+      "Name": "html",
+      "Type": "Compiled:String"
+    }
+  ]
+}

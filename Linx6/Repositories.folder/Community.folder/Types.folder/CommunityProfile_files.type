@@ -1,0 +1,41 @@
+{
+  "Id": "2pNw",
+  "Name": "CommunityProfile_files",
+  "Properties": [
+    {
+      "Id": "hV9i",
+      "Name": "code_of_conduct",
+      "Type": "Custom:txNj"
+    },
+    {
+      "Id": "UUIj",
+      "Name": "code_of_conduct_file",
+      "Type": "Custom:G25S"
+    },
+    {
+      "Id": "6VN6",
+      "Name": "contributing",
+      "Type": "Custom:G25S"
+    },
+    {
+      "Id": "lKfk",
+      "Name": "issue_template",
+      "Type": "Custom:G25S"
+    },
+    {
+      "Id": "Q7OC",
+      "Name": "pull_request_template",
+      "Type": "Custom:G25S"
+    },
+    {
+      "Id": "w9cN",
+      "Name": "license",
+      "Type": "Custom:dbqa"
+    },
+    {
+      "Id": "Vt7N",
+      "Name": "readme",
+      "Type": "Custom:G25S"
+    }
+  ]
+}
