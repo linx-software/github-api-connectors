@@ -1,0 +1,21 @@
+{
+  "Id": "6wme",
+  "Name": "Repo_permissions",
+  "Properties": [
+    {
+      "Id": "BxuO",
+      "Name": "admin",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "hcDk",
+      "Name": "push",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "T9f9",
+      "Name": "pull",
+      "Type": "Compiled:Boolean"
+    }
+  ]
+}

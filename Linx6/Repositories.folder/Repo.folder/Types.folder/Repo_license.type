@@ -1,0 +1,36 @@
+{
+  "Id": "BsQI",
+  "Name": "Repo_license",
+  "Properties": [
+    {
+      "Id": "sdGN",
+      "Name": "key",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "1kzf",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "86ln",
+      "Name": "url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "mMBx",
+      "Name": "spdx_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Wsil",
+      "Name": "node_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "KWGb",
+      "Name": "html_url",
+      "Type": "Compiled:String"
+    }
+  ]
+}

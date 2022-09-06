@@ -1,0 +1,441 @@
+{
+  "Id": "1Xxv",
+  "Name": "Repo",
+  "Properties": [
+    {
+      "Id": "Na0m",
+      "Name": "id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "Fhac",
+      "Name": "node_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "9830",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "IGrd",
+      "Name": "full_name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "lWqj",
+      "Name": "owner",
+      "Type": "Custom:9wzi"
+    },
+    {
+      "Id": "g2Zd",
+      "Name": "private",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "gOEm",
+      "Name": "html_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "2J7I",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "JQcx",
+      "Name": "fork",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "EJ7C",
+      "Name": "url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "DM92",
+      "Name": "archive_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "uC54",
+      "Name": "assignees_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "LDXc",
+      "Name": "blobs_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "zBOj",
+      "Name": "branches_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "IXsG",
+      "Name": "collaborators_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "9Cxy",
+      "Name": "comments_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "vyD7",
+      "Name": "commits_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "PKa3",
+      "Name": "compare_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "74s8",
+      "Name": "contents_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "d0ds",
+      "Name": "contributors_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "EtZs",
+      "Name": "deployments_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "AdaX",
+      "Name": "downloads_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "dK2A",
+      "Name": "events_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Okl9",
+      "Name": "forks_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "4jEO",
+      "Name": "git_commits_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "NkEH",
+      "Name": "git_refs_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "8KWx",
+      "Name": "git_tags_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "NuD2",
+      "Name": "git_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "WmM5",
+      "Name": "issue_comment_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "jnCn",
+      "Name": "issue_events_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "8ce7",
+      "Name": "issues_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "nOCv",
+      "Name": "keys_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "XFrP",
+      "Name": "labels_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Y9P3",
+      "Name": "languages_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "akzX",
+      "Name": "merges_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "AiUM",
+      "Name": "milestones_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "AcWC",
+      "Name": "notifications_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ps4n",
+      "Name": "pulls_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "b75K",
+      "Name": "releases_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "uHI6",
+      "Name": "ssh_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "6N3f",
+      "Name": "stargazers_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "VV0Z",
+      "Name": "statuses_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "nddq",
+      "Name": "subscribers_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "MXj9",
+      "Name": "subscription_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "f8lQ",
+      "Name": "tags_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "FyYR",
+      "Name": "teams_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "axqu",
+      "Name": "trees_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Mu9T",
+      "Name": "clone_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "czNn",
+      "Name": "mirror_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "OtQX",
+      "Name": "hooks_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ATuQ",
+      "Name": "svn_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "zV7T",
+      "Name": "homepage",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "y3Mt",
+      "Name": "organization",
+      "Type": "Custom:9wzi"
+    },
+    {
+      "Id": "kEFL",
+      "Name": "language",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ORsD",
+      "Name": "forks",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "3Obz",
+      "Name": "forks_count",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "L2nm",
+      "Name": "stargazers_count",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "FX2V",
+      "Name": "watchers_count",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "x4Rf",
+      "Name": "watchers",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "xygB",
+      "Name": "size",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "2ZyV",
+      "Name": "default_branch",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "9moJ",
+      "Name": "open_issues",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "OSi0",
+      "Name": "open_issues_count",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "pvBj",
+      "Name": "is_template",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "fgYD",
+      "Name": "license",
+      "Type": "Custom:BsQI"
+    },
+    {
+      "Id": "tIXv",
+      "Name": "topics",
+      "Type": "List:Compiled:String"
+    },
+    {
+      "Id": "DX4o",
+      "Name": "has_issues",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "hvN1",
+      "Name": "has_projects",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "MHMU",
+      "Name": "has_wiki",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "AqAm",
+      "Name": "has_pages",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "XeTi",
+      "Name": "has_downloads",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "RiVE",
+      "Name": "archived",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "Joz5",
+      "Name": "disabled",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "Xi1I",
+      "Name": "visibility",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "t98w",
+      "Name": "pushed_at",
+      "Type": "Compiled:DateTime"
+    },
+    {
+      "Id": "Rb0L",
+      "Name": "created_at",
+      "Type": "Compiled:DateTime"
+    },
+    {
+      "Id": "O8JB",
+      "Name": "updated_at",
+      "Type": "Compiled:DateTime"
+    },
+    {
+      "Id": "KELC",
+      "Name": "permissions",
+      "Type": "Custom:6wme"
+    },
+    {
+      "Id": "wcV3",
+      "Name": "allow_rebase_merge",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "KJl7",
+      "Name": "template_repository",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "sckk",
+      "Name": "temp_clone_token",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "HM1t",
+      "Name": "allow_squash_merge",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "7GHc",
+      "Name": "allow_auto_merge",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "00wG",
+      "Name": "delete_branch_on_merge",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "Wl5m",
+      "Name": "allow_merge_commit",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "HsIQ",
+      "Name": "subscribers_count",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "ttUZ",
+      "Name": "network_count",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

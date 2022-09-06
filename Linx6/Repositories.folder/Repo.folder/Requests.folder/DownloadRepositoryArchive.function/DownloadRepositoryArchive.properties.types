@@ -1,0 +1,28 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "eX6g",
+      "Properties": [
+        {
+          "Id": "tz1U",
+          "Name": "AccessToken",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "SJmw",
+          "Name": "OrganizationName",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "trBv",
+          "Name": "Repo",
+          "Type": "Custom:1Xxv",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

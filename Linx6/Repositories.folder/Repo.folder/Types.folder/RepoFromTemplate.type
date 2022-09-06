@@ -1,0 +1,31 @@
+{
+  "Id": "1Gol",
+  "Name": "RepoFromTemplate",
+  "Properties": [
+    {
+      "Id": "D6Yd",
+      "Name": "owner",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "PVpb",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "tNxz",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "PM6V",
+      "Name": "include_all_branches",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "24Lx",
+      "Name": "private",
+      "Type": "Compiled:Boolean"
+    }
+  ]
+}
