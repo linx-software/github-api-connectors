@@ -1,0 +1,70 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "ZScK",
+      "Properties": [
+        {
+          "Id": "090q",
+          "Name": "AccessToken",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "4uQ1",
+          "Name": "Affiliation",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "OC6t",
+          "Name": "Before",
+          "Type": "Compiled:DateTime",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "3uGu",
+          "Name": "Page",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "T10H",
+          "Name": "PerPage",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "3Rog",
+          "Name": "Since",
+          "Type": "Compiled:DateTime",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "I8Ax",
+          "Name": "SortBy",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "TBY4",
+          "Name": "SortDirection",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "8tyn",
+          "Name": "Type",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "7KT9",
+          "Name": "Visibility",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]
