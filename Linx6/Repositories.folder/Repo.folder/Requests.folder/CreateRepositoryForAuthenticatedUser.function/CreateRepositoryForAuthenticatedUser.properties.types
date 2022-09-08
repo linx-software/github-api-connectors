@@ -1,0 +1,22 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "9CQu",
+      "Properties": [
+        {
+          "Id": "K5mM",
+          "Name": "AccessToken",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "PNBd",
+          "Name": "RepositoryData",
+          "Type": "Custom:1Xxv",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

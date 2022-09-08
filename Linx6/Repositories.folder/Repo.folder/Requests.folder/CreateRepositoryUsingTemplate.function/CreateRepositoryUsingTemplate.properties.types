@@ -1,0 +1,34 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "daxL",
+      "Properties": [
+        {
+          "Id": "K5mM",
+          "Name": "AccessToken",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "PNBd",
+          "Name": "RepositoryData",
+          "Type": "Custom:1Gol",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "OR3g",
+          "Name": "TemplateOwner",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "sfeC",
+          "Name": "TemplateRepo",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]
