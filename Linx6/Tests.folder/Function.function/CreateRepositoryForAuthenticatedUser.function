@@ -1,0 +1,47 @@
+{
+  "Properties": [
+    {
+      "Id": "K5mM",
+      "Type": "Compiled:String",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "AccessToken",
+        "CompiledExpression": "={0}",
+        "Type": "Compiled:String"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "ParameterNameMapping",
+      "Type": "Compiled:System.Collections.Generic.IDictionary`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+      "ValueUsage": "DesignTime",
+      "Value": {
+        "K5mM": "AccessToken",
+        "PNBd": "RepositoryData"
+      },
+      "ValueType": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    },
+    {
+      "Id": "PNBd",
+      "Type": "Custom:1Xxv",
+      "ValueUsage": "RuntimeRead",
+      "Value": "{\"name\":\"hello-world\", \"has_projects\":\"True\", \"visibility\":\"private\", \"allow_merge_commit\":\"True\"}",
+      "ValueType": "String"
+    },
+    {
+      "Id": "Process",
+      "Type": "Compiled:Linx.IProcessReference",
+      "ValueUsage": "DesignTime",
+      "Value": {
+        "Id": "HtaI",
+        "Name": "GitHubAPI.Repositories.Repo.Requests.CreateRepositoryForAuthenticatedUser",
+        "Parameters": "Generated:TZPx",
+        "Result": "Custom:1Xxv",
+        "IsValid": true,
+        "QualifiedPath": "FL:GitHubAPI→FL:Repositories→FL:Repo→FL:Requests→PC:CreateRepositoryForAuthenticatedUser"
+      },
+      "ValueType": "Linx.ProcessReference"
+    }
+  ],
+  "Result": "Custom:1Xxv"
+}

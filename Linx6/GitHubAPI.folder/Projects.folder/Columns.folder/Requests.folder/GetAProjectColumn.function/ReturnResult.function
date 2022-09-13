@@ -2,7 +2,7 @@
   "Properties": [
     {
       "Id": "Source",
-      "Type": "List:Custom:2nGR",
+      "Type": "Custom:AS5Z",
       "ValueUsage": "RuntimeRead",
       "Value": {
         "Expression": "CallRESTEndpoint",
@@ -13,12 +13,12 @@
     },
     {
       "Id": "Target",
-      "Type": "List:Custom:2nGR",
+      "Type": "Custom:AS5Z",
       "ValueUsage": "RuntimeWrite",
       "Value": {
         "Expression": "$.Result",
         "CompiledExpression": "={0}",
-        "Type": "List:Custom:2nGR"
+        "Type": "Custom:AS5Z"
       },
       "ValueType": "Linx.CSharpExpression"
     }

@@ -2,7 +2,7 @@
   {
     "Type": "Generated",
     "Value": {
-      "Id": "sBKE",
+      "Id": "fnDN",
       "Properties": [
         {
           "Id": "tz1U",
@@ -11,20 +11,14 @@
           "Access": "ReadWrite"
         },
         {
-          "Id": "pyek",
-          "Name": "Owner",
+          "Id": "SJmw",
+          "Name": "OrganizationName",
           "Type": "Compiled:String",
           "Access": "ReadWrite"
         },
         {
-          "Id": "VU2p",
-          "Name": "RepoName",
-          "Type": "Compiled:String",
-          "Access": "ReadWrite"
-        },
-        {
-          "Id": "X8Dg",
-          "Name": "RepositoryData",
+          "Id": "trBv",
+          "Name": "Repo",
           "Type": "Custom:1Xxv",
           "Access": "ReadWrite"
         }

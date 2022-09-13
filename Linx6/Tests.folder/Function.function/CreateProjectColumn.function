@@ -1,0 +1,58 @@
+{
+  "Properties": [
+    {
+      "Id": "dW9d",
+      "Type": "Compiled:Int64",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "CreateRepoProject.id",
+        "CompiledExpression": "={0}",
+        "Type": "Compiled:Int64"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "ParameterNameMapping",
+      "Type": "Compiled:System.Collections.Generic.IDictionary`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+      "ValueUsage": "DesignTime",
+      "Value": {
+        "tz1U": "AccessToken",
+        "pyek": "ColumnName",
+        "dW9d": "ProjectId"
+      },
+      "ValueType": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    },
+    {
+      "Id": "Process",
+      "Type": "Compiled:Linx.IProcessReference",
+      "ValueUsage": "DesignTime",
+      "Value": {
+        "Id": "7PRm",
+        "Name": "GitHubAPI.Projects.Columns.Requests.CreateProjectColumn",
+        "Parameters": "Generated:qK1l",
+        "Result": "Custom:AS5Z",
+        "IsValid": true,
+        "QualifiedPath": "FL:GitHubAPI→FL:Projects→FL:Columns→FL:Requests→PC:CreateProjectColumn"
+      },
+      "ValueType": "Linx.ProcessReference"
+    },
+    {
+      "Id": "pyek",
+      "Type": "Compiled:String",
+      "ValueUsage": "RuntimeRead",
+      "Value": "Demo Column 1"
+    },
+    {
+      "Id": "tz1U",
+      "Type": "Compiled:String",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "AccessToken",
+        "CompiledExpression": "={0}",
+        "Type": "Compiled:String"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ],
+  "Result": "Custom:AS5Z"
+}

@@ -1,0 +1,77 @@
+{
+  "Properties": [
+    {
+      "Id": "hjGx",
+      "Type": "Compiled:Int64",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "GetTheAuthenticatedUser.login",
+        "CompiledExpression": "={0}",
+        "Type": "Compiled:String"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "JQYl",
+      "Type": "Compiled:String",
+      "ValueUsage": "RuntimeRead",
+      "Value": "Linx demo project"
+    },
+    {
+      "Id": "ParameterNameMapping",
+      "Type": "Compiled:System.Collections.Generic.IDictionary`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+      "ValueUsage": "DesignTime",
+      "Value": {
+        "tz1U": "AccessToken",
+        "JQYl": "ProjectDesc",
+        "hjGx": "Owner",
+        "QSP4": "ProjectName",
+        "UGXr": "Repo"
+      },
+      "ValueType": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    },
+    {
+      "Id": "Process",
+      "Type": "Compiled:Linx.IProcessReference",
+      "ValueUsage": "DesignTime",
+      "Value": {
+        "Id": "2tut",
+        "Name": "GitHubAPI.Projects.Projects.Requests.CreateRepoProject",
+        "Parameters": "Generated:TFbo",
+        "Result": "Custom:FxJz",
+        "IsValid": true,
+        "QualifiedPath": "FL:GitHubAPI→FL:Projects→FL:Projects→FL:Requests→PC:CreateRepoProject"
+      },
+      "ValueType": "Linx.ProcessReference"
+    },
+    {
+      "Id": "QSP4",
+      "Type": "Compiled:String",
+      "ValueUsage": "RuntimeRead",
+      "Value": "Linx Demo"
+    },
+    {
+      "Id": "tz1U",
+      "Type": "Compiled:String",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "AccessToken",
+        "CompiledExpression": "={0}",
+        "Type": "Compiled:String"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "UGXr",
+      "Type": "Compiled:String",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "CreateRepositoryForAuthenticatedUser.name",
+        "CompiledExpression": "={0}",
+        "Type": "Compiled:String"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ],
+  "Result": "Custom:FxJz"
+}

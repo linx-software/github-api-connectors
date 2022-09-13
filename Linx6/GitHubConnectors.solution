@@ -12,16 +12,7 @@
     "twenty57.linx.solutiondependencies.types, 1.1.0"
   ],
   "Items": [
-    "Applications.folder",
-    "CodeOfConduct.folder",
-    "Emojis.folder",
-    "Licenses.folder",
-    "Markdown.folder",
-    "Meta.folder",
-    "Organizations.folder",
-    "Projects.folder",
-    "RateLimits.folder",
-    "Repositories.folder",
-    "Users.folder"
+    "GitHubAPI.folder",
+    "Tests.folder"
   ]
 }
