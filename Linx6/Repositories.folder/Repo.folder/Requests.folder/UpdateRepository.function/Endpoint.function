@@ -5,8 +5,8 @@
       "Type": "Compiled:String",
       "ValueUsage": "RuntimeRead",
       "Value": {
-        "Expression": " \"/users/\"+ $.Parameters.Username +\"/repos\"",
-        "CompiledExpression": "=\"/users/\"+{0}+\"/repos\"",
+        "Expression": " \"/repos/\"+ $.Parameters.Owner +\"/\" + $.Parameters.RepoName",
+        "CompiledExpression": "=\"/repos/\"+{1}+\"/\"+{0}",
         "Type": "Compiled:String"
       },
       "ValueType": "Linx.CSharpExpression"

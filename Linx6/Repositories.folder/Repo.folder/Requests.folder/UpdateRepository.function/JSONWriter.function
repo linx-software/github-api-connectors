@@ -1,0 +1,52 @@
+{
+  "Properties": [
+    {
+      "Id": "Data",
+      "Type": "Compiled:Object",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "$.Parameters.RepositoryData",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:1Xxv"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Date format",
+      "Type": "Compiled:String",
+      "ValueUsage": "DesignTime",
+      "Value": null
+    },
+    {
+      "Id": "Enum format",
+      "Type": "Compiled:Twenty57.Linx.Plugins.Json.JsonWriter.EnumFormat, Twenty57.Linx.Plugins.Json, Version=1.0.2.0, Culture=neutral, PublicKeyToken=null",
+      "ValueUsage": "DesignTime",
+      "Value": "Number"
+    },
+    {
+      "Id": "Escape string",
+      "Type": "Compiled:Twenty57.Linx.Plugins.Json.JsonWriter.StringEscape, Twenty57.Linx.Plugins.Json, Version=1.0.2.0, Culture=neutral, PublicKeyToken=null",
+      "ValueUsage": "DesignTime",
+      "Value": "Default"
+    },
+    {
+      "Id": "Ignore null properties",
+      "Type": "Compiled:Boolean",
+      "ValueUsage": "DesignTime",
+      "Value": true
+    },
+    {
+      "Id": "Indent",
+      "Type": "Compiled:Boolean",
+      "ValueUsage": "DesignTime",
+      "Value": false
+    },
+    {
+      "Id": "Property map",
+      "Type": "Compiled:Twenty57.Linx.Plugins.Json.Common.Mappings, Twenty57.Linx.Plugins.Json, Version=1.0.2.0, Culture=neutral, PublicKeyToken=null",
+      "ValueUsage": "DesignTime",
+      "Value": ""
+    }
+  ],
+  "Result": "Compiled:String"
+}
