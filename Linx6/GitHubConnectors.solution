@@ -21,6 +21,7 @@
     "Organizations.folder",
     "Projects.folder",
     "RateLimits.folder",
-    "Repositories.folder"
+    "Repositories.folder",
+    "Users.folder"
   ]
 }

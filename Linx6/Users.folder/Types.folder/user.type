@@ -1,0 +1,166 @@
+{
+  "Id": "UYAD",
+  "Name": "user",
+  "Properties": [
+    {
+      "Id": "V008",
+      "Name": "login",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "6C9l",
+      "Name": "id",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "WIzI",
+      "Name": "node_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "UxnV",
+      "Name": "avatar_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "xbM1",
+      "Name": "gravatar_id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "wjW2",
+      "Name": "url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "RaSX",
+      "Name": "html_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "BrkS",
+      "Name": "followers_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "z9Hy",
+      "Name": "following_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "8tfW",
+      "Name": "gists_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "UJtT",
+      "Name": "starred_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "xwQW",
+      "Name": "subscriptions_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Vqdx",
+      "Name": "organizations_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "2Rjj",
+      "Name": "repos_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "VXUo",
+      "Name": "events_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "vbaj",
+      "Name": "received_events_url",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "w6QG",
+      "Name": "type",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "3bVq",
+      "Name": "site_admin",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "Jo2x",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "NGBL",
+      "Name": "company",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "W9x5",
+      "Name": "blog",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "0PYz",
+      "Name": "location",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "rBTM",
+      "Name": "email",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "OrZN",
+      "Name": "hireable",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "nFfG",
+      "Name": "bio",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "nvZ5",
+      "Name": "twitter_username",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "AKpu",
+      "Name": "public_repos",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "poET",
+      "Name": "public_gists",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "ycp8",
+      "Name": "followers",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "Q84I",
+      "Name": "following",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "3Bt3",
+      "Name": "created_at",
+      "Type": "Compiled:DateTime"
+    },
+    {
+      "Id": "CdDV",
+      "Name": "updated_at",
+      "Type": "Compiled:DateTime"
+    }
+  ]
+}
