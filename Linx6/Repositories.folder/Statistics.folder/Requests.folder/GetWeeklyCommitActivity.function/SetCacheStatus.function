@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "Source",
+      "Type": "Compiled:Int64",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "CallRESTEndpoint_CheckJob.StatusCode",
+        "CompiledExpression": "={0}",
+        "Type": "Compiled:Int32"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Target",
+      "Type": "Compiled:Int64",
+      "ValueUsage": "RuntimeWrite",
+      "Value": {
+        "Expression": "CacheStatus",
+        "CompiledExpression": "={0}",
+        "Type": "Compiled:Int64"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

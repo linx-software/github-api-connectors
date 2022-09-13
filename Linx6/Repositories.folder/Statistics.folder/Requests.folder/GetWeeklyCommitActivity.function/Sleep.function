@@ -1,0 +1,10 @@
+{
+  "Properties": [
+    {
+      "Id": "Timeout",
+      "Type": "Compiled:Int32",
+      "ValueUsage": "RuntimeRead",
+      "Value": 10000
+    }
+  ]
+}

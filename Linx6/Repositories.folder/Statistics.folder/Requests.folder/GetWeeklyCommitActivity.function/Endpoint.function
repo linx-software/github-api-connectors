@@ -1,0 +1,16 @@
+{
+  "Properties": [
+    {
+      "Id": "Value",
+      "Type": "Compiled:String",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "\"/repos/\"+ $.Parameters.Owner +\"/\"+$.Parameters.Repo + \"/stats/code_frequency\"",
+        "CompiledExpression": "=\"/repos/\"+{1}+\"/\"+{0}+\"/stats/code_frequency\"",
+        "Type": "Compiled:String"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ],
+  "Result": "Compiled:String"
+}

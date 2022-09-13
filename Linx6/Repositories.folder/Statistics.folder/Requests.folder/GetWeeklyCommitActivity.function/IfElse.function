@@ -1,0 +1,69 @@
+{
+  "ExecutionPaths": [
+    {
+      "PluginId": "56dS",
+      "Name": "Complete",
+      "Result": null,
+      "Order": 0,
+      "IterationHint": "ZeroOrOnce"
+    },
+    {
+      "PluginId": "XuXD",
+      "Name": "Pending",
+      "Result": null,
+      "Order": 1,
+      "IterationHint": "ZeroOrOnce"
+    }
+  ],
+  "Properties": [
+    {
+      "Id": "Conditions",
+      "Type": "Compiled:System.Collections.Generic.List`1[[Twenty57.Linx.Plugins.Standard.IfElse.Condition, Twenty57.Linx.Plugins.Standard, Version=1.0.2.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+      "ValueUsage": "DesignTime",
+      "Value": [
+        {
+          "ExecutionPathId": "56dS",
+          "Name": "Complete"
+        },
+        {
+          "ExecutionPathId": "XuXD",
+          "Name": "Pending"
+        }
+      ]
+    },
+    {
+      "Id": "Expression_0",
+      "Type": "Compiled:Boolean",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "CacheStatus == 200",
+        "CompiledExpression": "={0}==200",
+        "Type": "Compiled:Boolean"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Expression_1",
+      "Type": "Compiled:Boolean",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "CacheStatus == 202",
+        "CompiledExpression": "={0}==202",
+        "Type": "Compiled:Boolean"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Show else",
+      "Type": "Compiled:Boolean",
+      "ValueUsage": "DesignTime",
+      "Value": false
+    },
+    {
+      "Id": "Stop when true",
+      "Type": "Compiled:Boolean",
+      "ValueUsage": "DesignTime",
+      "Value": true
+    }
+  ]
+}
