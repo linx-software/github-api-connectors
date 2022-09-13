@@ -1,0 +1,21 @@
+{
+  "Id": "VMKn",
+  "Name": "ViewsTraffic",
+  "Properties": [
+    {
+      "Id": "5NK4",
+      "Name": "count",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "Z4Xe",
+      "Name": "uniques",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "gsl6",
+      "Name": "views",
+      "Type": "List:Custom:9Cvq"
+    }
+  ]
+}

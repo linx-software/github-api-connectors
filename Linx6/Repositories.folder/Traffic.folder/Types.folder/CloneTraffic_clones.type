@@ -1,0 +1,21 @@
+{
+  "Id": "zriU",
+  "Name": "CloneTraffic_clones",
+  "Properties": [
+    {
+      "Id": "Or5t",
+      "Name": "timestamp",
+      "Type": "Compiled:DateTime"
+    },
+    {
+      "Id": "jSkC",
+      "Name": "count",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "iXD2",
+      "Name": "uniques",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

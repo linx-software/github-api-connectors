@@ -1,0 +1,21 @@
+{
+  "Id": "q9aT",
+  "Name": "ReferralSource",
+  "Properties": [
+    {
+      "Id": "8zEt",
+      "Name": "referrer",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "wlfR",
+      "Name": "count",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "xmDV",
+      "Name": "uniques",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

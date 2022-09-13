@@ -1,0 +1,21 @@
+{
+  "Id": "1MNw",
+  "Name": "CloneTraffic",
+  "Properties": [
+    {
+      "Id": "IG2E",
+      "Name": "count",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "DI69",
+      "Name": "uniques",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "9Q1C",
+      "Name": "clones",
+      "Type": "List:Custom:zriU"
+    }
+  ]
+}

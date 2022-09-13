@@ -1,0 +1,21 @@
+{
+  "Id": "9Cvq",
+  "Name": "ViewsTraffic_views",
+  "Properties": [
+    {
+      "Id": "jvvN",
+      "Name": "timestamp",
+      "Type": "Compiled:DateTime"
+    },
+    {
+      "Id": "LUFm",
+      "Name": "count",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "BSfv",
+      "Name": "uniques",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

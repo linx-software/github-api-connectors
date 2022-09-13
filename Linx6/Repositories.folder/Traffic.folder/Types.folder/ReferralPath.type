@@ -1,0 +1,26 @@
+{
+  "Id": "ynO4",
+  "Name": "ReferralPath",
+  "Properties": [
+    {
+      "Id": "p9DB",
+      "Name": "path",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "tPM1",
+      "Name": "title",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "IEgN",
+      "Name": "count",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "KImn",
+      "Name": "uniques",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

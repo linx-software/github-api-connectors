@@ -1,0 +1,16 @@
+{
+  "Properties": [
+    {
+      "Id": "Value",
+      "Type": "Compiled:String",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "\"/repos/\"+ $.Parameters.Owner +\"/\"+$.Parameters.Repo + \"/traffic/popular/paths\"",
+        "CompiledExpression": "=\"/repos/\"+{1}+\"/\"+{0}+\"/traffic/popular/paths\"",
+        "Type": "Compiled:String"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ],
+  "Result": "Compiled:String"
+}
