@@ -2,7 +2,7 @@
   {
     "Type": "Generated",
     "Value": {
-      "Id": "YwRO",
+      "Id": "U1ar",
       "Properties": [
         {
           "Id": "tz1U",
@@ -11,15 +11,9 @@
           "Access": "ReadWrite"
         },
         {
-          "Id": "SJmw",
-          "Name": "OrganizationName",
+          "Id": "pyek",
+          "Name": "ColumnId",
           "Type": "Compiled:String",
-          "Access": "ReadWrite"
-        },
-        {
-          "Id": "trBv",
-          "Name": "RepositoryData",
-          "Type": "Custom:1Xxv",
           "Access": "ReadWrite"
         }
       ]

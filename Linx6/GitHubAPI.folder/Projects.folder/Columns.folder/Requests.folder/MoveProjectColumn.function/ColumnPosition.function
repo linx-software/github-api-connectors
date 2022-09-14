@@ -21,7 +21,7 @@
             "expression": {
               "Expression": "$.Parameters.Position",
               "CompiledExpression": "={0}",
-              "ErrorMessage": "Expression contains invalid references."
+              "Type": "Compiled:String"
             }
           }
         ]

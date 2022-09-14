@@ -6,8 +6,8 @@
       "ValueUsage": "RuntimeRead",
       "Value": {
         "Expression": "\"/projects/columns/\" +  $.Parameters.ColumnId ",
-        "CompiledExpression": "=\"/projects/columns/\" +  {0} ",
-        "ErrorMessage": "Expression contains invalid references."
+        "CompiledExpression": "=\"/projects/columns/\"+{0}",
+        "Type": "Compiled:String"
       },
       "ValueType": "Linx.CSharpExpression"
     }

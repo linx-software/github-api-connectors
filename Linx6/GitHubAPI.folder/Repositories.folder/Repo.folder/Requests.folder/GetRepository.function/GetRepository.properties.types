@@ -2,7 +2,7 @@
   {
     "Type": "Generated",
     "Value": {
-      "Id": "XWaG",
+      "Id": "mRBb",
       "Properties": [
         {
           "Id": "K5mM",
@@ -11,14 +11,14 @@
           "Access": "ReadWrite"
         },
         {
-          "Id": "PNBd",
-          "Name": "RepositoryName",
+          "Id": "OfbD",
+          "Name": "Owner",
           "Type": "Compiled:String",
           "Access": "ReadWrite"
         },
         {
-          "Id": "OfbD",
-          "Name": "Owner",
+          "Id": "PNBd",
+          "Name": "RepoName",
           "Type": "Compiled:String",
           "Access": "ReadWrite"
         }

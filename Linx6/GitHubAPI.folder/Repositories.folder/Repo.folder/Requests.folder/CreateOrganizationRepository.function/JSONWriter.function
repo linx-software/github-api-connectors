@@ -7,7 +7,7 @@
       "Value": {
         "Expression": "$.Parameters.RepositoryData",
         "CompiledExpression": "={0}",
-        "ErrorMessage": "Expression contains invalid references."
+        "Type": "Custom:1Xxv"
       },
       "ValueType": "Linx.CSharpExpression"
     },

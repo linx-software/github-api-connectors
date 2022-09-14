@@ -6,8 +6,8 @@
       "ValueUsage": "RuntimeRead",
       "Value": {
         "Expression": " \"/repos/\" + $.Parameters.Owner + \"/\" +$.Parameters.RepoName",
-        "CompiledExpression": "= \"/repos/\" + {1} + \"/\" +{0}",
-        "ErrorMessage": "Expression contains invalid references."
+        "CompiledExpression": "=\"/repos/\"+{1}+\"/\"+{0}",
+        "Type": "Compiled:String"
       },
       "ValueType": "Linx.CSharpExpression"
     }
