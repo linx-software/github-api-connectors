@@ -1,15 +1,16 @@
 {
-  "ApplicationVersion": "6.3.1",
+  "ApplicationVersion": "6.4.1",
+  "SolutionVersion": 4,
   "Plugins": [
-    "twenty57.linx.plugins.file, 1.0.5",
+    "twenty57.linx.plugins.file, 1.1.0",
     "twenty57.linx.plugins.json, 1.0.2",
     "twenty57.linx.plugins.rest, 1.1.0",
-    "twenty57.linx.plugins.standard, 1.0.2",
+    "twenty57.linx.plugins.standard, 1.1.0",
     "twenty57.linx.plugins.utilities, 1.0.2"
   ],
   "Dependencies": [
-    "twenty57.linx.solutiondependencies.compilation, 1.1.7",
-    "twenty57.linx.solutiondependencies.types, 1.1.0"
+    "twenty57.linx.solutiondependencies.compilation, 2.0.0",
+    "twenty57.linx.solutiondependencies.types, 1.2.0"
   ],
   "Items": [
     "GitHubAPI.folder",

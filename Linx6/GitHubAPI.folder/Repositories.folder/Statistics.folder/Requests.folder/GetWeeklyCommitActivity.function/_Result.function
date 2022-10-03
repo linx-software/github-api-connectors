@@ -1,0 +1,19 @@
+{
+  "Properties": [
+    {
+      "Id": "Type",
+      "Type": "Compiled:Linx.ITypeReference",
+      "ValueUsage": "DesignTime",
+      "Value": "List:Compiled:String",
+      "ValueType": "Twenty57.Linx.SolutionDependencies.Types.ListTypeReference, Twenty57.Linx.SolutionDependencies.Types, Version=1.2.0.0, Culture=neutral, PublicKeyToken=null"
+    },
+    {
+      "Id": "Value",
+      "Type": "List:List:Compiled:String",
+      "ValueUsage": "RuntimeRead",
+      "Value": "[]",
+      "ValueType": "String"
+    }
+  ],
+  "Result": "List:List:Compiled:String"
+}

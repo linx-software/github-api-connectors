@@ -71,7 +71,7 @@
       "Type": "Compiled:Linx.ITypeReference",
       "ValueUsage": "DesignTime",
       "Value": "Compiled:String",
-      "ValueType": "Twenty57.Linx.SolutionDependencies.Types.CompiledTypeReference, Twenty57.Linx.SolutionDependencies.Types, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null"
+      "ValueType": "Twenty57.Linx.SolutionDependencies.Types.CompiledTypeReference, Twenty57.Linx.SolutionDependencies.Types, Version=1.2.0.0, Culture=neutral, PublicKeyToken=null"
     },
     {
       "Id": "Port",

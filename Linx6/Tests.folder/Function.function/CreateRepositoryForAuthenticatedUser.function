@@ -25,7 +25,7 @@
       "Id": "PNBd",
       "Type": "Custom:1Xxv",
       "ValueUsage": "RuntimeRead",
-      "Value": "{\"name\":\"hello-world\", \"has_projects\":\"True\", \"visibility\":\"private\", \"allow_merge_commit\":\"True\"}",
+      "Value": "{\"name\":\"hello-world\",\"has_projects\":true,\"visibility\":\"private\",\"allow_merge_commit\":true}",
       "ValueType": "String"
     },
     {
